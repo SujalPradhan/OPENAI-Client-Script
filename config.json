@@ -1,0 +1,7 @@
+{
+    "model": "gpt-4.1-nano",
+    "temperature": 0.7,
+    "max_tokens": 1000,
+    "stream": false,
+    "log_requests": true
+}
